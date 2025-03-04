@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for new opportunities
 
-- 🌱 I’m learning **Elixir**
+- 🌱 I’m learning **Unit.co**
 
 - 👨‍💻 All of my projects are available at <a href="https://samuelvasco.com" target="blank" >samuelvasco.com</a>
 
