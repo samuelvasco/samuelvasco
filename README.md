@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently making delightful products at [Truss](https://www.trusspayments.com/)
 
-- 🌱 Learning **Unit.co** and getting into fintech
-
 - 👨‍💻 Check out my projects at <a href="https://samuelvasco.com" target="blank" >samuelvasco.com</a>
 
 <h3 align="left">Connect with me:</h3>
